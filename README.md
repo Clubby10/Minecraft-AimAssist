@@ -1,2 +1,2 @@
 # WhyAimLMAO
-shitty auto aim for minecraft 1.8.9 needs improvement just proof of concept and learning  
+A Minecraft proof-of-concept that locates other players and moves to the area that is closest to the crosshair by using the system memory. (1.8.9)
